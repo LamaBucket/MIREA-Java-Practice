@@ -39,4 +39,4 @@ java Main
 
 ## Лицензия
 
-MIT License (или другая, по желанию).
+MIT License.
